@@ -1,2 +1,2 @@
-# Jogo_Nosso
-Jogo produzido pela irmandade mané de fato.
+# Projeto_Jogo
+Projeto a ser planejado e desenvolvido. Atualizações em breve.
